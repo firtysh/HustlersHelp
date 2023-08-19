@@ -13,7 +13,7 @@ function Hero() {
 					Learn, Connect, Unleash Your Entrepreneurial Brilliance!
 				</p>
 			</div>
-			<button className="rounded-full btn btn-primary" onClick={()=>navigate('/student/signup')}>Join Us</button>
+			<button className="rounded-full btn btn-primary" onClick={() => navigate('/student/signup')}>Join Us</button>
 			<div className='p-12 my-12 text-xl text-center md:px-48 bg-base-300'>
 				We provide aspiring entrepreneurs with learning resources, networking opportunities, and mentorship to empower them on their journey to success. Through these comprehensive support systems, we equip and enable entrepreneurs to thrive in the competitive business landscape.
 			</div>
